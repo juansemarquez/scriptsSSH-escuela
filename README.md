@@ -1,5 +1,5 @@
 # scriptsSSH-escuela
-These are the scripts I use to manage a computer lab in a school.
+These are some of the scripts I use to manage a computer lab in a school.
 
 Although they were created for the specific case of a particular school,
 maybe it can be useful for someone else.
